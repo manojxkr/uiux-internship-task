@@ -10,8 +10,6 @@
 ### Dashboard
 ![Dashboard](./screenshots/dashboard.png)
 
-### Edit Task
-![Edit Task](./screenshots/edit-task.png)
 ## Features
 - JWT-based authentication (Register / Login / Logout)
 - Protected dashboard routes
