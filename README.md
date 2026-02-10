@@ -1,5 +1,17 @@
 
+## UI Preview
 
+### Login
+![Login Page](./photos/login.png)
+
+### Register
+![Register Page](./screenshots/register.png)
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### Edit Task
+![Edit Task](./screenshots/edit-task.png)
 ## Features
 - JWT-based authentication (Register / Login / Logout)
 - Protected dashboard routes
